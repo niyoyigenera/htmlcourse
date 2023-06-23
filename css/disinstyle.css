@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(139, 177, 210);
+
+}
+#division{
+    background-color: rgb(57, 43, 70);
+    width: 1000px;
+    height: 100px;
+    display: flex;
+}
+.myclass{
+    color: rgb(187, 220, 220);
+   
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
